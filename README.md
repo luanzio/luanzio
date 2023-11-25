@@ -11,14 +11,14 @@ Bem-vindo ao meu perfil do GitHub, um espaço onde compartilho projetos e minha 
 ## Vamos Conectar! 🌐
 <div>
       <a target="_blank" href="https://linkedin.com/in/luanhernandes"><img
-          src="https://github.com/luanzio/luanzio/assets/93232640/b2ae07dd-fcb1-46f1-8776-55564ff9b2ef"
+          src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
           alt="Linkedin" height="40"
       /></a>
-      <a target="_blank" href="mailto:luanhb7@gmail.com?subject=Perfil GitHub"><img
+      <a target="_blank" href="mailto:luanhb7@gmail.com"><img
           alt="Gmail" height="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
       /></a>
     <a target="_blank" href="https://wa.me/5542999253870"><img
-          alt="WhatsApp" height="40" src="https://github.com/luanzio/luanzio/assets/93232640/b424c281-3a64-4a31-89a8-b302d0568000"
+          alt="WhatsApp" height="40" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png"
       /></a>
     </div>
     </br>

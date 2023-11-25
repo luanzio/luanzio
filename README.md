@@ -10,12 +10,11 @@ Bem-vindo ao meu perfil do GitHub. Um lugar onde você irá encontrar repositór
 
 ## Contato
 <div>
-      <a href="https://linkedin.com/in/luanhernandes" target="_blank"
-        ><img
+      <a href="https://linkedin.com/in/luanhernandes"  target="_blank"><img
           src="https://github.com/luanzio/luanzio/assets/93232640/b2ae07dd-fcb1-46f1-8776-55564ff9b2ef"
           alt="Linkedin" height="40"
       /></a>
-      <a href="mailto:luanhb7@gmail.com" target="_blank"><img
+      <a href=mailto:luanhb7@gmail.com target="_blank"><img
           alt="Gmail" height="40" src="https://github.com/luanzio/luanzio/assets/93232640/ed26b56d-c310-4a4c-8fa6-49c6888128ad"
       /></a>
     <a href="https://wa.me/5542999253870" target="_blank"><img

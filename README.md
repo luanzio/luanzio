@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, meu nome é Luan!
 
-<!--
-**luanzio/luanzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub. Um lugar onde você irá encontrar repositórios de alguém apaixonado por programação. Explore meus projetos e sinta-se à vontade para contribuir e me dar feedback!
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 📘 Cursando Engenharia de Computação na Universidade Estadual de Ponta Grossa
+- 🌱 Atualmente aprendendo e aprimorando minhas habilidades em NextJS e ReactJS.
+- 💬 Pergunte-me sobre qualquer coisa!
+- 💻 Esperando por uma oportunidade para crescer como profissional e acadêmico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+<div>
+      <a href="www.linkedin.com/in/luanhernandes" target="_blank"
+        ><img
+          src="https://github.com/luanzio/luanzio/assets/93232640/b2ae07dd-fcb1-46f1-8776-55564ff9b2ef"
+          alt="Linkedin" height="40"
+      /></a>
+      <a href="mailto:luanhb7@gmail.com" target="_blank"><img
+          alt="Gmail" height="40" src="https://github.com/luanzio/luanzio/assets/93232640/ed26b56d-c310-4a4c-8fa6-49c6888128ad"
+      /></a>
+    <a href="https://wa.me/5542999253870" target="_blank"><img
+          alt="WhatsApp" height="40" src="https://github.com/luanzio/luanzio/assets/93232640/b424c281-3a64-4a31-89a8-b302d0568000"
+      /></a>
+    </div>

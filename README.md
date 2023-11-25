@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil do GitHub. Um lugar onde você irá encontrar repositór
 
 ## Contato
 <div>
-      <a href="www.linkedin.com/in/luanhernandes" target="_blank"
+      <a href="https://linkedin.com/in/luanhernandes" target="_blank"
         ><img
           src="https://github.com/luanzio/luanzio/assets/93232640/b2ae07dd-fcb1-46f1-8776-55564ff9b2ef"
           alt="Linkedin" height="40"

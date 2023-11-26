@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94aef2&size=35%&width=1000&lines=Olá,+meu+nome+é+Luan!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&customColorList=9,10,11,12&size=35%&width=1000&lines=Olá,+meu+nome+é+Luan!+:%29)](https://git.io/typing-svg)
 Bem-vindo ao meu perfil do GitHub, um espaço onde compartilho projetos e minha paixão pela programação e desenvolvimento web. Explore os repositórios e sinta-se à vontade para contribuir e deixar seu feedback!
 
 ## Sobre Mim
@@ -24,4 +24,4 @@ Bem-vindo ao meu perfil do GitHub, um espaço onde compartilho projetos e minha 
     </div>
     </br>
 Fique à vontade para se conectar ou enviar uma mensagem! 😊
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=9,10,11,12&color=gradient&height=120&section=footer"/>

@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub, um espaço onde compartilho projetos e minha 
 - 💬 Me pergunte sobre qualquer coisa!
 - 💻 Em busca de oportunidades para crescer como desenvolvedor.
 
-## Vamos Conectar! 🌐
+## Vamos nos Conectar! 🌐
 <div>
       <a target="_blank" href="https://linkedin.com/in/luanhernandes"><img
           src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"

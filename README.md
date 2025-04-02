@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub, um espaço onde compartilho projetos e minha 
 
 ## Sobre Mim
 - 📘 Cursando Engenharia de Computação na Universidade Estadual de Ponta Grossa.
-- 🌱 Atualmente aprimorando minhas habilidades em NextJS e ReactJS.
+- 🌱 Atualmente aprimorando minhas habilidades em Laravel e NodeJS.
 - 💬 Me pergunte sobre qualquer coisa!
 - 💻 Em busca de oportunidades para crescer como desenvolvedor.
 
